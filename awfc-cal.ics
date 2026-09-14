@@ -1,0 +1,695 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Thaura//Arsenal Women 2026-27 Fixtures//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ AWFC
+BEGIN:VEVENT
+UID:arswsl-md1-brighton-a@thaura.ai
+DTSTAMP:20260913T120000Z
+DTSTART;TZID=Europe/London:20260906T120000
+DTEND;TZID=Europe/London:20260906T134500
+SUMMARY:WSL MD1: Brighton & Hove Albion v Arsenal
+LOCATION:Broadfield Stadium\, Crawley
+DESCRIPTION:Women's Super League Matchday 1 (Away) - CONFIRMED\nWatch: Sky Sports Main Event / Sky One / Sky Sports+
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Brighton & Hove Albion v Arsenal (A)
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:arswsl-md2-cpalace-h@thaura.ai
+DTSTAMP:20260913T120000Z
+DTSTART;TZID=Europe/London:20260913T144500
+DTEND;TZID=Europe/London:20260913T163000
+SUMMARY:WSL MD2: Arsenal v Crystal Palace
+LOCATION:Emirates Stadium
+DESCRIPTION:Women's Super League Matchday 2 (Home) - CONFIRMED\nWatch: BBC Two / BBC iPlayer / BBC Sport Website
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Arsenal v Crystal Palace (H)
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:arswcl-lpmd1-barcelona-h@thaura.ai
+DTSTAMP:20260913T120000Z
+DTSTART;TZID=Europe/London:20260923T190000
+DTEND;TZID=Europe/London:20260923T204500
+SUMMARY:UEFA WCL LP MD1: Arsenal v Barcelona
+LOCATION:Emirates Stadium
+DESCRIPTION:UEFA Women's Champions League League Phase Matchday 1 (Home)\nOpponent confirmed via 4 Sep draw. Kick-off time TBC - assumed 7pm.\nWatch: Likely Sky Sports / NOW TV (confirm closer to date)
+STATUS:TENTATIVE
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Arsenal v Barcelona (UCL LP MD1)
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:arswsl-md3-manutd-h@thaura.ai
+DTSTAMP:20260913T120000Z
+DTSTART;TZID=Europe/London:20260919T163000
+DTEND;TZID=Europe/London:20260919T181500
+SUMMARY:WSL MD3: Arsenal v Manchester United
+LOCATION:Emirates Stadium
+DESCRIPTION:Women's Super League Matchday 3 (Home) - CONFIRMED\nWatch: Sky Sports Football
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Arsenal v Manchester United (H)
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:arswsl-md4-chelsea-a@thaura.ai
+DTSTAMP:20260913T120000Z
+DTSTART;TZID=Europe/London:20260927T163000
+DTEND;TZID=Europe/London:20260927T181500
+SUMMARY:WSL MD4: Chelsea v Arsenal
+LOCATION:Stamford Bridge
+DESCRIPTION:Women's Super League Matchday 4 (Away) - CONFIRMED\nWatch: Sky Sports Main Event / Sky Sports Premier League / Sky Ultra HDR
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chelsea v Arsenal (A)
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:arswcl-lpmd2-lyonnes-a@thaura.ai
+DTSTAMP:20260913T120000Z
+DTSTART;TZID=Europe/London:20261001T190000
+DTEND;TZID=Europe/London:20261001T204500
+SUMMARY:UEFA WCL LP MD2: OL Lyonnes v Arsenal
+LOCATION:Groupama Stadium\, Lyon
+DESCRIPTION:UEFA Women's Champions League League Phase Matchday 2 (Away)\nWindow: 30 Sep / 1 Oct. Opponent confirmed via 4 Sep draw. Time TBC - assumed 7pm.\nWatch: Likely Sky Sports / NOW TV (confirm closer to date)
+STATUS:TENTATIVE
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OL Lyonnes v Arsenal (UCL LP MD2)
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:arswsl-md5-mancity-a@thaura.ai
+DTSTAMP:20260913T120000Z
+DTSTART;TZID=Europe/London:20261004T163000
+DTEND;TZID=Europe/London:20261004T181500
+SUMMARY:WSL MD5: Manchester City v Arsenal
+LOCATION:City of Manchester Stadium
+DESCRIPTION:Women's Super League Matchday 5 (Away)\nTime subject to broadcast confirmation.\nWatch: TBC (Sky Sports or BBC - confirm ~4 weeks before)
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Manchester City v Arsenal (A)
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:arswsl-md6-birmingham-h@thaura.ai
+DTSTAMP:20260913T120000Z
+DTSTART;TZID=Europe/London:20261018T124500
+DTEND;TZID=Europe/London:20261018T143000
+SUMMARY:WSL MD6: Arsenal v Birmingham City
+LOCATION:Emirates Stadium
+DESCRIPTION:Women's Super League Matchday 6 (Home)\nTime subject to broadcast confirmation.\nWatch: TBC (Sky Sports or BBC - confirm ~4 weeks before)
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Arsenal v Birmingham City (H)
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:arswsl-md7-spurs-a@thaura.ai
+DTSTAMP:20260913T120000Z
+DTSTART;TZID=Europe/London:20261025T124500
+DTEND;TZID=Europe/London:20261025T143000
+SUMMARY:WSL MD7: Tottenham Hotspur v Arsenal
+LOCATION:Tottenham Hotspur Stadium
+DESCRIPTION:Women's Super League Matchday 7 (Away) - North London Derby\nTime subject to broadcast confirmation.\nWatch: BBC One / BBC iPlayer / BBC Sport Website
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Tottenham Hotspur v Arsenal (A)
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:arswcl-lpmd3-bayern-h@thaura.ai
+DTSTAMP:20260913T120000Z
+DTSTART;TZID=Europe/London:20261029T190000
+DTEND;TZID=Europe/London:20261029T204500
+SUMMARY:UEFA WCL LP MD3: Arsenal v Bayern Munich
+LOCATION:Emirates Stadium
+DESCRIPTION:UEFA Women's Champions League League Phase Matchday 3 (Home)\nWindow: 28/29 October. Opponent confirmed via 4 Sep draw. Time TBC - assumed 7pm.\nWatch: Likely Sky Sports / NOW TV (confirm closer to date)
+STATUS:TENTATIVE
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Arsenal v Bayern Munich (UCL LP MD3)
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:arswsl-md8-villa-h@thaura.ai
+DTSTAMP:20260913T120000Z
+DTSTART;TZID=Europe/London:20261101T120000
+DTEND;TZID=Europe/London:20261101T134500
+SUMMARY:WSL MD8: Arsenal v Aston Villa
+LOCATION:Emirates Stadium
+DESCRIPTION:Women's Super League Matchday 8 (Home)\nTime subject to broadcast confirmation.\nWatch: Sky Sports+
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Arsenal v Aston Villa (H)
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:arswsl-md9-liverpool-a@thaura.ai
+DTSTAMP:20260913T120000Z
+DTSTART;TZID=Europe/London:20261107T120000
+DTEND;TZID=Europe/London:20261107T134500
+SUMMARY:WSL MD9: Liverpool v Arsenal
+LOCATION:Anfield
+DESCRIPTION:Women's Super League Matchday 9 (Away)\nTime subject to broadcast confirmation.\nWatch: TBC (Sky Sports or BBC - confirm ~4 weeks before)
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Liverpool v Arsenal (A)
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:arswcl-lpmd4-benfica-a@thaura.ai
+DTSTAMP:20260913T120000Z
+DTSTART;TZID=Europe/London:20261111T190000
+DTEND;TZID=Europe/London:20261111T204500
+SUMMARY:UEFA WCL LP MD4: Benfica v Arsenal
+LOCATION:Estádio da Luz\, Lisbon
+DESCRIPTION:UEFA Women's Champions League League Phase Matchday 4 (Away)\nWindow: 10/11 November. Opponent confirmed via 4 Sep draw. Time TBC - assumed 7pm.\nWatch: Likely Sky Sports / NOW TV (confirm closer to date)
+STATUS:TENTATIVE
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Benfica v Arsenal (UCL LP MD4)
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:arswsl-md10-londoncity-h@thaura.ai
+DTSTAMP:20260913T120000Z
+DTSTART;TZID=Europe/London:20261114T173000
+DTEND;TZID=Europe/London:20261114T191500
+SUMMARY:WSL MD10: Arsenal v London City Lionesses
+LOCATION:Emirates Stadium
+DESCRIPTION:Women's Super League Matchday 10 (Home)\nTime subject to broadcast confirmation.\nWatch: TBC (Sky Sports or BBC - confirm ~4 weeks before)
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Arsenal v London City Lionesses (H)
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:arswcl-lpmd5-roma-h@thaura.ai
+DTSTAMP:20260913T120000Z
+DTSTART;TZID=Europe/London:20261119T190000
+DTEND;TZID=Europe/London:20261119T204500
+SUMMARY:UEFA WCL LP MD5: Arsenal v Roma
+LOCATION:Emirates Stadium
+DESCRIPTION:UEFA Women's Champions League League Phase Matchday 5 (Home)\nWindow: 18/19 November. Opponent confirmed via 4 Sep draw. Time TBC - assumed 7pm.\nWatch: Likely Sky Sports / NOW TV (confirm closer to date)
+STATUS:TENTATIVE
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Arsenal v Roma (UCL LP MD5)
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:arswsl-md11-westham-h@thaura.ai
+DTSTAMP:20260913T120000Z
+DTSTART;TZID=Europe/London:20261122T123000
+DTEND;TZID=Europe/London:20261122T141500
+SUMMARY:WSL MD11: Arsenal v West Ham United
+LOCATION:Emirates Stadium
+DESCRIPTION:Women's Super League Matchday 11 (Home)\nTime subject to broadcast confirmation.\nWatch: TBC (Sky Sports or BBC - confirm ~4 weeks before)
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Arsenal v West Ham United (H)
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:arswsl-md12-everton-a@thaura.ai
+DTSTAMP:20260913T120000Z
+DTSTART;TZID=Europe/London:20261212T123000
+DTEND;TZID=Europe/London:20261212T141500
+SUMMARY:WSL MD12: Everton v Arsenal
+LOCATION:Goodison Park
+DESCRIPTION:Women's Super League Matchday 12 (Away)\nTime subject to broadcast confirmation.\nWatch: TBC (Sky Sports or BBC - confirm ~4 weeks before)
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Everton v Arsenal (A)
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:arswcl-lpmd6-mancity-a@thaura.ai
+DTSTAMP:20260913T120000Z
+DTSTART;TZID=Europe/London:20261216T190000
+DTEND;TZID=Europe/London:20261216T204500
+SUMMARY:UEFA WCL LP MD6: Manchester City v Arsenal
+LOCATION:City of Manchester Stadium
+DESCRIPTION:UEFA Women's Champions League League Phase Matchday 6 (final league match)\nWednesday 16 December. All six matches kick off simultaneously.\nOpponent confirmed via 4 Sep draw. Time TBC - assumed 7pm.\nWatch: Likely Sky Sports / NOW TV (confirm closer to date)
+STATUS:TENTATIVE
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Manchester City v Arsenal (UCL LP MD6)
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:arswsl-md13-charlton-a@thaura.ai
+DTSTAMP:20260913T120000Z
+DTSTART;TZID=Europe/London:20261220T123000
+DTEND;TZID=Europe/London:20261220T141500
+SUMMARY:WSL MD13: Charlton Athletic v Arsenal
+LOCATION:The Valley
+DESCRIPTION:Women's Super League Matchday 13 (Away)\nTime subject to broadcast confirmation.\nWatch: TBC (Sky Sports or BBC - confirm ~4 weeks before)
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Charlton Athletic v Arsenal (A)
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:arswsl-md14-brighton-h@thaura.ai
+DTSTAMP:20260913T120000Z
+DTSTART;TZID=Europe/London:20270110T123000
+DTEND;TZID=Europe/London:20270110T141500
+SUMMARY:WSL MD14: Arsenal v Brighton & Hove Albion
+LOCATION:Emirates Stadium
+DESCRIPTION:Women's Super League Matchday 14 (Home)\nTime subject to broadcast confirmation.\nWatch: TBC (Sky Sports or BBC - confirm ~4 weeks before)
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Arsenal v Brighton & Hove Albion (H)
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:arsfac-r4-bristol-h@thaura.ai
+DTSTAMP:20260913T120000Z
+DTSTART;TZID=Europe/London:20270222T130000
+DTEND;TZID=Europe/London:20270222T144500
+SUMMARY:Women's FA Cup R4: Arsenal v Bristol City
+LOCATION:Emirates Stadium
+DESCRIPTION:Women's FA Cup Fourth Round Proper (Home)\nOpponent confirmed via R4 draw. Time TBC - assumed 1pm.\nWatch: TBC (typically BBC or Sky - confirm closer to date)
+STATUS:TENTATIVE
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Arsenal v Bristol City (FA Cup R4)
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:arswsl-md15-liverpool-h@thaura.ai
+DTSTAMP:20260913T120000Z
+DTSTART;TZID=Europe/London:20270121T190000
+DTEND;TZID=Europe/London:20270121T204500
+SUMMARY:WSL MD15: Arsenal v Liverpool
+LOCATION:Emirates Stadium
+DESCRIPTION:Women's Super League Matchday 15 (Home)\nTime subject to broadcast confirmation.\nWatch: TBC (Sky Sports or BBC - confirm ~4 weeks before)
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Arsenal v Liverpool (H)
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:arswsl-md16-londoncity-a@thaura.ai
+DTSTAMP:20260913T120000Z
+DTSTART;TZID=Europe/London:20270124T140000
+DTEND;TZID=Europe/London:20270124T154500
+SUMMARY:WSL MD16: London City Lionesses v Arsenal
+LOCATION:Hayes Lane
+DESCRIPTION:Women's Super League Matchday 16 (Away)\nTime subject to broadcast confirmation.\nWatch: TBC (Sky Sports or BBC - confirm ~4 weeks before)
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: London City Lionesses v Arsenal (A)
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:arswsl-md17-mancity-h@thaura.ai
+DTSTAMP:20260913T120000Z
+DTSTART;TZID=Europe/London:20270130T173000
+DTEND;TZID=Europe/London:20270130T191500
+SUMMARY:WSL MD17: Arsenal v Manchester City
+LOCATION:Emirates Stadium
+DESCRIPTION:Women's Super League Matchday 17 (Home)\nTime subject to broadcast confirmation.\nWatch: TBC (Sky Sports or BBC - confirm ~4 weeks before)
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Arsenal v Manchester City (H)
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:arswcl-po1-leuven-a@thaura.ai
+DTSTAMP:20260913T120000Z
+DTSTART;TZID=Europe/London:20270211T174500
+DTEND;TZID=Europe/London:20270211T193000
+SUMMARY:[TBC] UEFA WCL Knockout Play-Off 2nd Leg: OH Leuven v Arsenal
+LOCATION:King Power at Den Dreef\, Leuven
+DESCRIPTION:UEFA WCL Knockout Phase Play-Offs - Second leg (window 10/11 Feb).\nOnly applies if Arsenal finish top 8 in league phase.\nFirst leg at Emirates reported 18 Feb. Times TBC.\nWatch: Likely Sky Sports / NOW TV
+STATUS:TENTATIVE
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Placeholder: UCL KO PO 2nd leg (delete if Arsenal miss playoffs)
+TRIGGER:-PT1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:arswsl-md18-birmingham-a@thaura.ai
+DTSTAMP:20260913T120000Z
+DTSTART;TZID=Europe/London:20270207T140000
+DTEND;TZID=Europe/London:20270207T154500
+SUMMARY:WSL MD18: Birmingham City v Arsenal
+LOCATION:St Andrew's
+DESCRIPTION:Women's Super League Matchday 18 (Away)\nTime subject to broadcast confirmation.\nWatch: TBC (Sky Sports or BBC - confirm ~4 weeks before)
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Birmingham City v Arsenal (A)
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:arswsl-md19-cpalace-a@thaura.ai
+DTSTAMP:20260913T120000Z
+DTSTART;TZID=Europe/London:20270214T140000
+DTEND;TZID=Europe/London:20270214T154500
+SUMMARY:WSL MD19: Crystal Palace v Arsenal
+LOCATION:Selhurst Park
+DESCRIPTION:Women's Super League Matchday 19 (Away)\nTime subject to broadcast confirmation.\nWatch: TBC (Sky Sports or BBC - confirm ~4 weeks before)
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Crystal Palace v Arsenal (A)
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:arsfac-r5-tbc@thaura.ai
+DTSTAMP:20260913T120000Z
+DTSTART;TZID=Europe/London:20270221T150000
+DTEND;TZID=Europe/London:20270221T164500
+SUMMARY:[TBC] Women's FA Cup Round 5
+LOCATION:TBC (home or away)
+DESCRIPTION:Women's FA Cup Fifth Round Proper.\nOnly applies if Arsenal progress from Round 4 (vs Bristol City).\nOpponent & venue TBC - draw made after Round 4. Time assumed 3pm.\nWatch: TBC (typically BBC or Sky - confirm closer to date)
+STATUS:TENTATIVE
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Placeholder: FA Cup R5 (delete if eliminated in R4)
+TRIGGER:-PT1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:arswsl-md20-spurs-h@thaura.ai
+DTSTAMP:20260913T120000Z
+DTSTART;TZID=Europe/London:20270313T173000
+DTEND;TZID=Europe/London:20270313T191500
+SUMMARY:WSL MD20: Arsenal v Tottenham Hotspur
+LOCATION:Emirates Stadium
+DESCRIPTION:Women's Super League Matchday 20 (Home) - North London Derby\nTime subject to broadcast confirmation.\nWatch: TBC (Sky Sports or BBC - confirm ~4 weeks before)
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Arsenal v Tottenham Hotspur (H)
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:arswsl-md21-villa-a@thaura.ai
+DTSTAMP:20260913T120000Z
+DTSTART;TZID=Europe/London:20270317T193000
+DTEND;TZID=Europe/London:20270317T211500
+SUMMARY:WSL MD21: Aston Villa v Arsenal
+LOCATION:Villa Park
+DESCRIPTION:Women's Super League Matchday 21 (Away)\nTime subject to broadcast confirmation.\nWatch: TBC (Sky Sports or BBC - confirm ~4 weeks before)
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Aston Villa v Arsenal (A)
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:arsfac-qf-tbc@thaura.ai
+DTSTAMP:20260913T120000Z
+DTSTART;TZID=Europe/London:20270321T150000
+DTEND;TZID=Europe/London:20270321T164500
+SUMMARY:[TBC] Women's FA Cup Quarter-Final
+LOCATION:TBC (neutral venue)
+DESCRIPTION:Women's FA Cup Quarter-Final.\nOnly applies if Arsenal progress from Round 5.\nOpponent & venue TBC - draw made after Round 5. Time assumed 3pm.\nWatch: TBC (typically BBC or Sky - confirm closer to date)
+STATUS:TENTATIVE
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Placeholder: FA Cup QF (delete if eliminated earlier)
+TRIGGER:-PT1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:arswcl-qf1-tbc@thaura.ai
+DTSTAMP:20260913T120000Z
+DTSTART;TZID=Europe/London:20270324T190000
+DTEND;TZID=Europe/London:20270324T204500
+SUMMARY:[TBC] UEFA WCL Quarter-Final 1st Leg
+LOCATION:TBC (Emirates or away)
+DESCRIPTION:UEFA WCL Quarter-Finals - First leg. Window: 23/24 March 2027.\nOnly applies if Arsenal qualify via top 8 or win playoff.\nOpponent TBC - knockout draw on 18 December 2026. Time assumed 7pm.\nWatch: Likely Sky Sports / NOW TV
+STATUS:TENTATIVE
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Placeholder: UCL QF 1st leg (delete if Arsenal eliminated)
+TRIGGER:-PT1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:arswcl-qf2-tbc@thaura.ai
+DTSTAMP:20260913T120000Z
+DTSTART;TZID=Europe/London:20270331T190000
+DTEND;TZID=Europe/London:20270331T204500
+SUMMARY:[TBC] UEFA WCL Quarter-Final 2nd Leg
+LOCATION:TBC (Emirates or away)
+DESCRIPTION:UEFA WCL Quarter-Finals - Second leg. Window: 31 Mar / 1 Apr 2027.\nOnly applies if Arsenal qualify via top 8 or win playoff.\nOpponent TBC - knockout draw on 18 December 2026. Time assumed 7pm.\nWatch: Likely Sky Sports / NOW TV
+STATUS:TENTATIVE
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Placeholder: UCL QF 2nd leg (delete if Arsenal eliminated)
+TRIGGER:-PT1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:arswsl-md22-chelsea-h@thaura.ai
+DTSTAMP:20260913T120000Z
+DTSTART;TZID=Europe/London:20270328T140000
+DTEND;TZID=Europe/London:20270328T154500
+SUMMARY:WSL MD22: Arsenal v Chelsea
+LOCATION:Emirates Stadium
+DESCRIPTION:Women's Super League Matchday 22 (Home)\nTime subject to broadcast confirmation.\nWatch: TBC (Sky Sports or BBC - confirm ~4 weeks before)
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Arsenal v Chelsea (H)
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:arswsl-md23-everton-h@thaura.ai
+DTSTAMP:20260913T120000Z
+DTSTART;TZID=Europe/London:20270404T140000
+DTEND;TZID=Europe/London:20270404T154500
+SUMMARY:WSL MD23: Arsenal v Everton
+LOCATION:Emirates Stadium
+DESCRIPTION:Women's Super League Matchday 23 (Home)\nTime subject to broadcast confirmation.\nWatch: TBC (Sky Sports or BBC - confirm ~4 weeks before)
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Arsenal v Everton (H)
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:arsfac-sf-tbc@thaura.ai
+DTSTAMP:20260913T120000Z
+DTSTART;TZID=Europe/London:20270411T150000
+DTEND;TZID=Europe/London:20270411T164500
+SUMMARY:[TBC] Women's FA Cup Semi-Final
+LOCATION:Wembley Stadium
+DESCRIPTION:Women's FA Cup Semi-Final at Wembley.\nOnly applies if Arsenal reach semi-finals.\nOpponent TBC - determined by QF results. Time assumed 3pm.\nWatch: Typically BBC (semi-finals usually free-to-air)
+STATUS:TENTATIVE
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Placeholder: FA Cup SF (delete if eliminated earlier)
+TRIGGER:-PT1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:arswcl-sf1-tbc@thaura.ai
+DTSTAMP:20260913T120000Z
+DTSTART;TZID=Europe/London:20270502T160000
+DTEND;TZID=Europe/London:20270502T174500
+SUMMARY:[TBC] UEFA WCL Semi-Final 1st Leg
+LOCATION:TBC (Emirates or away)
+DESCRIPTION:UEFA WCL Semi-Finals - First leg. Window: 1/2 May 2027.\nOnly applies if Arsenal reach semi-finals.\nOpponent TBC - determined by QF results. Time assumed 4pm.\nWatch: Likely Sky Sports / NOW TV
+STATUS:TENTATIVE
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Placeholder: UCL SF 1st leg (delete if Arsenal eliminated)
+TRIGGER:-PT1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:arswsl-md24-westham-a@thaura.ai
+DTSTAMP:20260913T120000Z
+DTSTART;TZID=Europe/London:20270502T140000
+DTEND;TZID=Europe/London:20270502T154500
+SUMMARY:WSL MD24: West Ham United v Arsenal
+LOCATION:Victoria Road
+DESCRIPTION:Women's Super League Matchday 24 (Away)\nNote: same day as potential UCL SF 1st leg - check for clash.\nWatch: TBC (Sky Sports or BBC - confirm ~4 weeks before)
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: West Ham United v Arsenal (A)
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:arswcl-sf2-tbc@thaura.ai
+DTSTAMP:20260913T120000Z
+DTSTART;TZID=Europe/London:20270509T160000
+DTEND;TZID=Europe/London:20270509T174500
+SUMMARY:[TBC] UEFA WCL Semi-Final 2nd Leg
+LOCATION:TBC (Emirates or away)
+DESCRIPTION:UEFA WCL Semi-Finals - Second leg. Window: 8/9 May 2027.\nOnly applies if Arsenal reach semi-finals.\nOpponent TBC - determined by QF results. Time assumed 4pm.\nWatch: Likely Sky Sports / NOW TV
+STATUS:TENTATIVE
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Placeholder: UCL SF 2nd leg (delete if Arsenal eliminated)
+TRIGGER:-PT1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:arswsl-md25-manutd-a@thaura.ai
+DTSTAMP:20260913T120000Z
+DTSTART;TZID=Europe/London:20270509T130000
+DTEND;TZID=Europe/London:20270509T144500
+SUMMARY:WSL MD25: Manchester United v Arsenal
+LOCATION:Old Trafford
+DESCRIPTION:Women's Super League Matchday 25 (Away)\nNote: same day as potential UCL SF 2nd leg - check for clash.\nWatch: TBC (Sky Sports or BBC - confirm ~4 weeks before)
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Manchester United v Arsenal (A)
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:arsfac-final-tbc@thaura.ai
+DTSTAMP:20260913T120000Z
+DTSTART;TZID=Europe/London:20270516T150000
+DTEND;TZID=Europe/London:20270516T164500
+SUMMARY:[TBC] Women's FA Cup Final
+LOCATION:Wembley Stadium
+DESCRIPTION:Women's FA Cup Final at Wembley.\nOnly applies if Arsenal reach the final.\nOpponent TBC - determined by semi-final results. Time assumed 3pm.\nWatch: Typically BBC (final usually free-to-air)
+STATUS:TENTATIVE
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Placeholder: FA Cup Final (delete if not in final)
+TRIGGER:-PT1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:arswsl-md26-charlton-h@thaura.ai
+DTSTAMP:20260913T120000Z
+DTSTART;TZID=Europe/London:20270522T120000
+DTEND;TZID=Europe/London:20270522T134500
+SUMMARY:WSL MD26: Arsenal v Charlton Athletic
+LOCATION:Emirates Stadium
+DESCRIPTION:Women's Super League Matchday 26 (Home). Date window 21-23 May; time TBC - assumed 12pm.\nWatch: TBC (Sky Sports or BBC - confirm ~4 weeks before)
+STATUS:TENTATIVE
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Arsenal v Charlton Athletic (H)
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:arswcl-final-tbc@thaura.ai
+DTSTAMP:20260913T120000Z
+DTSTART;TZID=Europe/London:20270529T170000
+DTEND;TZID=Europe/London:20270529T184500
+SUMMARY:[TBC] UEFA WCL Final
+LOCATION:Stadion Narodowy\, Warsaw
+DESCRIPTION:UEFA Women's Champions League Final at Stadion Narodowy\, Warsaw.\nDate: 28\, 29\, or 30 May 2027 (exact date TBC).\nOnly applies if Arsenal reach the final. Time assumed 5pm CEST.\nWatch: Likely Sky Sports / NOW TV (final may be on terrestrial/free)
+STATUS:TENTATIVE
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Placeholder: UCL Final (delete if not in final)
+TRIGGER:-PT1D
+END:VALARM
+END:VEVENT
+END:VCALENDAR
